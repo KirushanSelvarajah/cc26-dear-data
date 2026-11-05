@@ -1,6 +1,6 @@
 # My Exercise Tracker Project.
 
-## 1. What this project is about
+## 1. What this project is about.
 I am tracking my daily exercise habits to see how my workouts connect with how many calories I burn and what my mindset is before I start.
 
 ## 2. My Data Columns.
