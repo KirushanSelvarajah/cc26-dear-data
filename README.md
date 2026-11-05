@@ -6,5 +6,5 @@ I am tracking my daily exercise habits to see how my workouts connect with how m
 ## 2. My Data Columns.
 * Date: The day I did the activity.
 * Exercise: The type of workout (Cycling, Football, Running, Weightlifting, Swimming, Home Exercise or Rest).
-* Calories: The total calories burnt.
+* Calories (Kcal): The total calories burnt.
 * Workout Mindset: How I felt before starting (Lazy, Energised, Relaxed, Motivated, or Determined).
